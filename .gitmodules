@@ -1,0 +1,6 @@
+[submodule "sem2/(8)/FibonacciHeapLib"]
+	path = sem2/(8)/FibonacciHeapLib
+	url = https://github.com/bohdan200211/FibonacciHeapLib
+[submodule "sem2/(9)/Johnson-s-algorithm"]
+	path = sem2/(9)/Johnson-s-algorithm
+	url = https://github.com/bohdan200211/Johnson-s-algorithm
